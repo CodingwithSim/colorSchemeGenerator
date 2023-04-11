@@ -1,3 +1,5 @@
+const bootstrap = require('bootstrap')
+
 const colorPicker = document.querySelector("input")
 let colorVal = (colorPicker.value).substring(1)
 
